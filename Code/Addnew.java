@@ -7,7 +7,6 @@ public class Addnew {
         for (int i = 0; i < arr.length; i++) {
             newArray[i] = arr[i];
         }
-
         newArray[arr.length] = newE;
 
         for (int i = 0; i < newArray.length; i++) {
